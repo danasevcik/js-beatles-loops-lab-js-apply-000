@@ -31,5 +31,7 @@ function iLoveTheBeatles(n) {
   var ansArray = [];
   var i = 0;
   
-  
+  do {
+    
+  }
 }
