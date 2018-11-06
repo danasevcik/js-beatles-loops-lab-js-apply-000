@@ -7,6 +7,6 @@ function theBeatlesPlay(musArr, instArr) {
     var instEle = instArr[i];
     var musInstStr = musEle + ' plays ' + instEle;
     
-    
+    ansArray.push(musInstStr);
   }
 }
