@@ -17,7 +17,7 @@ function johnLennonFacts(lennonFacts) {
   var i = 0;
   
   while (i < lennonFacts.length) {
-    shoutArray.push()  
+    shoutArray.push(lennonFacts[i] + '!!!')  
   }
   
   
