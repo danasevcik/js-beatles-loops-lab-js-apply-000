@@ -32,6 +32,7 @@ function iLoveTheBeatles(n) {
   var i = 0;
   
   do {
+    ansArray.push('I love the Beatles!');
     
   }
 }
