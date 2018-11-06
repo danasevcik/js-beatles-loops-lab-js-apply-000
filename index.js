@@ -15,5 +15,6 @@ function theBeatlesPlay(musArr, instArr) {
 function johnLennonFacts(lennonFacts) {
   var i = 0;
   
-  while (i < lennonFacts.length)
+  while (i < lennonFacts.length);
+  
 }
