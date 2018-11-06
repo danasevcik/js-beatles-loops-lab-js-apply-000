@@ -13,6 +13,7 @@ function theBeatlesPlay(musArr, instArr) {
 }
 
 function johnLennonFacts(lennonFacts) {
+  var 
   var i = 0;
   
   while (i < lennonFacts.length) {
