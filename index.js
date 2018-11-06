@@ -9,4 +9,5 @@ function theBeatlesPlay(musArr, instArr) {
     
     ansArray.push(musInstStr);
   }
+  return ansArray;
 }
