@@ -18,9 +18,9 @@ function johnLennonFacts(lennonFacts) {
   
   while (i < lennonFacts.length) {
     shoutArray.push(lennonFacts[i] + '!!!')  
+    
+    i++;
   }
-  
-  i++;
   
   return shoutArray;
 }
