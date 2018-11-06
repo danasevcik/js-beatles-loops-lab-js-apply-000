@@ -20,5 +20,7 @@ function johnLennonFacts(lennonFacts) {
     shoutArray.push(lennonFacts[i] + '!!!')  
   }
   
+  i++;
   
+  return 
 }
