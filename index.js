@@ -13,5 +13,6 @@ function theBeatlesPlay(musArr, instArr) {
 }
 
 function johnLennonFacts(lennonFacts) {
+  var i = 0;
   
 }
