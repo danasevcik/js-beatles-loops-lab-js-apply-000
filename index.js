@@ -24,3 +24,4 @@ function johnLennonFacts(lennonFacts) {
   
   return shoutArray;
 }
+
