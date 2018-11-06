@@ -12,6 +12,7 @@ function theBeatlesPlay(musArr, instArr) {
   return ansArray;
 }
 
+
 function johnLennonFacts(lennonFacts) {
   var shoutArray = [];
   var i = 0;
@@ -25,3 +26,7 @@ function johnLennonFacts(lennonFacts) {
   return shoutArray;
 }
 
+
+function iLoveTheBeatles(n) {
+  
+}
