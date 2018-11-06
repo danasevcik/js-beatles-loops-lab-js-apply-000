@@ -22,5 +22,5 @@ function johnLennonFacts(lennonFacts) {
   
   i++;
   
-  return 
+  return shoutArray;
 }
