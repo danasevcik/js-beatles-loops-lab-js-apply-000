@@ -36,4 +36,6 @@ function iLoveTheBeatles(n) {
     i += n;
   }
   while (n < 15);
+  
+  return ansArray;
 }
