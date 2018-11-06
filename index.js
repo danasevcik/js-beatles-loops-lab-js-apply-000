@@ -31,7 +31,7 @@ function iLoveTheBeatles(n) {
   var ansArray = [];
   
   do {
-    x = ansArray.push('I love the Beatles!');
+    n = ansArray.push('I love the Beatles!');
     x += n;
   }
   while (n < 15) {
